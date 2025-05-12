@@ -5,5 +5,5 @@ termcolor==2.2.0
 python-dotenv==1.0.0
 beautifulsoup4==4.12.2
 lxml==4.9.2
-scikit-learn==1.2.2
+scikit-learn==1.5.1
 thinkgpt==0.0.6
